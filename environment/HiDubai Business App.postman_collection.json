@@ -1,0 +1,99 @@
+{
+	"id": "55b849af-4ef9-4062-9899-7e04d68cefdb",
+	"name": "HiDubai Business App QA",
+	"values": [
+		{
+			"key": "host",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "expiredAccessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "verifiedMobileNumber",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "verifiedEmailId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "unverifiedMobileNumber",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "unverifiedEmailId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "refreshToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "expiredRefreshToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "otp",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "invalidEmailDomain",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-09-28T07:57:42.808Z",
+	"_postman_exported_using": "Postman/10.17.7"
+}
